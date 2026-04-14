@@ -1,4 +1,5 @@
-# Hi, I'm Efe 👋 This Repo contains all my Assignments on NSBB-552_Data_Analysis
+# Hi, I'm Efe 👋 
+This Repo contains all my Assignments on NSBB-552_Data_Analysis
 
 ## About Me
 I am currently learning Data Analytics using Python, Git, and Visual Studio Code.  
